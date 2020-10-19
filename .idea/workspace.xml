@@ -11,8 +11,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e8eaa0f-9bd4-4e0a-a17e-68f08e4e6c09" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,11 +39,13 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="last_opened_file_path" value="$USER_HOME$/Downloads/chat" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -58,6 +63,8 @@
       <updated>1602239821006</updated>
       <workItem from="1602239822040" duration="6272000" />
       <workItem from="1602246378922" duration="558000" />
+      <workItem from="1602484365854" duration="15000" />
+      <workItem from="1603091394501" duration="1902000" />
     </task>
     <servers />
   </component>
@@ -74,11 +81,20 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="572" y="415" width="838" height="403" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603091969212">
+      <screen x="72" y="27" width="1848" height="1173" />
+    </state>
+    <state x="572" y="415" width="838" height="403" key="#com.intellij.fileTypes.FileTypeChooser/72.27.1848.1173/1920.0.1920.1080@72.27.1848.1173" timestamp="1603091969212" />
     <state x="779" y="371" width="424" height="491" key="FileChooserDialogImpl" timestamp="1602244080196">
       <screen x="72" y="27" width="1848" height="1173" />
     </state>
     <state x="779" y="371" width="424" height="491" key="FileChooserDialogImpl/72.27.1848.1173/1920.0.1920.1080@72.27.1848.1173" timestamp="1602244080196" />
+    <state x="777" y="528" width="428" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603091608154">
+      <screen x="72" y="27" width="1848" height="1173" />
+    </state>
+    <state x="777" y="528" width="428" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/72.27.1848.1173/1920.0.1920.1080@72.27.1848.1173" timestamp="1603091608154" />
   </component>
 </project>
